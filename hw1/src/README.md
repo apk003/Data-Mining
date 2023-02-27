@@ -7,3 +7,6 @@ Task 2 - Finds average stars per category and sorts data by categories with high
 Task 3 default - Baseline implementation of task3 code (find length of dataset and runtime) using default partitioner.
 
 Task 3 customized - Using custom partitioner (choosing random keys) to bring down runtime of task3 code.
+
+
+Late due date was February 21st.
