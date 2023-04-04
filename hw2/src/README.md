@@ -5,5 +5,3 @@ Task 1 - Finds association rules within user IDs. PCY implemented using a simple
 Task 2 - Finds association rules within business IDS. PCY uses a slightly quicker hash function in order to deal with non-numerical IDs.
 
 Data preprocessing script used to create nv_data.csv is omitted, as well as debugging scripts.
-
-Currently awaiting the late due date in mid-March.
