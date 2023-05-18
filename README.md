@@ -1,7 +1,7 @@
 This collection of projects is intended to showcase the skills gained by taking CSCI 5523 - Intro to Data Mining at the University of Minnesota Twin Cities. It will NOT include all coursework, and all code is uploaded AFTER its due date.
 
 There are 6 total assignments:
-  1. Introduction to Spark
+  1. Introduction to Spark and MapReduce
   2. PCY and SON for association rule analysis
   3. Recommendation System with MinHash
   4. Graph Traversal and Girvan-Newman Algorithm
