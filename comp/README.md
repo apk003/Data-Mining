@@ -1,4 +1,4 @@
-This was a full-class competition with very generous extra credit. I was not in the top 10 for either leaderboard due to class size, but still got 11/10.
+This was a full-class competition with very generous extra credit. I was not in the top 10 for either leaderboard due to class size, but still got a grade of 11/10.
 
 Goal 1: RMSE below 0.76
 
